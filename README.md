@@ -1,4 +1,4 @@
-#In this project we use Django User model. Which allows us to start working with users right away, as
+In this project we use Django User model. Which allows us to start working with users right away, as
 we just did with our Blog app. for Big project Django highly recommends using a custom user model for new projects. The
 reason is that if you want to make any changes to the User model down the road–-for
 example adding an age field-–using a custom user model from the beginning makes
